@@ -7,3 +7,5 @@ another line added
 added another line once more
 
 hello world
+
+Testing my abiity to edit my own branch.
